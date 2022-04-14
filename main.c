@@ -8,5 +8,6 @@ int main() {
     printf("Cane");
     printf("gatto");
     printf("giraffa");
+    printf("Testo cane");
     return 0;
 }
