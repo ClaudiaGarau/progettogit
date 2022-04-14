@@ -5,6 +5,7 @@ int main() {
     printf("valentina");
     printf("Claudia");
     printf("ciao");
+    printf("Cane");
     printf("gatto");
     return 0;
 }
