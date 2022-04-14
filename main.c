@@ -7,5 +7,6 @@ int main() {
     printf("ciao");
     printf("Cane");
     printf("gatto");
+    printf("giraffa");
     return 0;
 }
